@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c6bfdfd37d5e263d",
+        "id": "b37d034f5fbd262f",
         "type": "tabs",
         "children": [
           {
-            "id": "a300171e3211f9a6",
+            "id": "1cb3fde46e31ca20",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
+                "aFile": ".obsidian/plugins/obsidian-git/data.json",
+                "bFile": ".obsidian/plugins/obsidian-git/data.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "title": "Diff: data.json  (Working Tree)"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "10minmathoverview-161110123811.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "10minmathoverview-161110123811 的反向链接列表"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "10minmathoverview-161110123811.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "10minmathoverview-161110123811 的出链列表"
             }
           },
           {
@@ -154,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "10minmathoverview-161110123811.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "10minmathoverview-161110123811 的大纲"
             }
           },
           {
@@ -191,6 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a300171e3211f9a6",
-  "lastOpenFiles": []
+  "active": "d777cdfcdc0c4e4a",
+  "lastOpenFiles": [
+    "2026-04-29.md",
+    "10minmathoverview-161110123811.pdf",
+    "daily/2026-04-29.md",
+    "daily"
+  ]
 }
