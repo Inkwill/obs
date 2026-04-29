@@ -156,6 +156,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -167,8 +168,9 @@
   },
   "active": "e48fc347b953e7c3",
   "lastOpenFiles": [
+    "2026-04-29.md",
+    "daily/2026-04-29.md",
     "daily",
-    "README.md",
-    "daily/2026-04-29.md"
+    "README.md"
   ]
 }
